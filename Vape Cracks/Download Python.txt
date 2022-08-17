@@ -1,0 +1,3 @@
+Download Python required for Vape dependencies and server
+https://www.python.org/ftp/python/3.9.11/python-3.9.11-amd64.exe
+x64 only
