@@ -1,0 +1,5 @@
+to block kant rats use this app
+
+Windows: https://github.com/GardeningTool/HostsMod
+
+Linux: https://github.com/HackingMC/HostsMod
