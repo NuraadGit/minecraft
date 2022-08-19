@@ -13,8 +13,6 @@ Luvsys Crib: discord.gg/clicks
 
 hovac.lol: discord.gg/cheats
 
-Aether: discord.gg/zsvkzzusN5
-
 CoolClientCollectorz: github.com/CoolClientCollectorz
 
 More credits coming soon cus its 8:47 rn
