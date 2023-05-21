@@ -15,6 +15,6 @@ hovac.lol: discord.gg/cheats
 
 CoolClientCollectorz: github.com/CoolClientCollectorz
 
-More credits coming soon cus its 8:47 rn
+Nyf's Cheat Archive: https://discord.gg/Kg299TBpyz
 
 FYI I made this cus I dont want to go to a bunch of sites to download clients I use
